@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blu-octopus
-- 👀 I’m interested in learning about how to make a game 
-- 🌱 I’m currently learning how to use unity
+- 👋 Hi, I’m a recent graduate who just finished her Bachelor in Game Design and Computer Science
+- 👀 I’m interested in giving back to the community
+- 🌱 I’m currently learning about Blender, 3D, and AR
 - 💞️ I’m looking to collaborate on UI/UX projects and game
 
 <!---
