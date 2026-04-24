@@ -1,2 +1,2 @@
 - 👋 Hi, I’m a designer who likes to code my ideas out
-- 🎓Degree in Game Design & Computer Science
+- 🎓 Studying CS & HCI [@GaTech](https://omscs.gatech.edu/), studied game design [@UCSC](https://admissions.ucsc.edu/programs/art-design-games-playable-media)
