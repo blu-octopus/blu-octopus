@@ -1,2 +1,3 @@
 - 👋 Hi, I’m a designer who likes to code my ideas out
-- 🎓 Studying CS & HCI [@GaTech](https://omscs.gatech.edu/), ex-game design [@UCSC](https://admissions.ucsc.edu/programs/art-design-games-playable-media)
+- In progress: M.S. CS & HCI [@GaTech](https://omscs.gatech.edu/)
+- Completed: B.A. in game design [@UCSC](https://admissions.ucsc.edu/programs/art-design-games-playable-media)
